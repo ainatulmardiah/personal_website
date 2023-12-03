@@ -1,0 +1,23 @@
+p
+	{
+		font-family: Verdana;
+		color: #000000;
+	}
+
+h1,h2
+	{
+		font-family: 'Lora', cursive;
+	}
+
+table
+	{
+		border:1px solid blue;
+		border-collapse: collapse;
+		width:500px;
+		text-align: center;
+	}
+
+tr,td,th
+	{
+		border: 2px solid black;
+	}
